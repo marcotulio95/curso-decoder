@@ -1,0 +1,6 @@
+[submodule "decoder-course"]
+	path = decoder-course
+	url = git@github.com:marcotulio95/decoder-course.git
+[submodule "decoder-oauthuser"]
+	path = decoder-oauthuser
+	url = git@github.com:marcotulio95/decoder-oauthuser.git
